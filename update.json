@@ -1,13 +1,15 @@
 {
   "versionCode": 2,
-  "versionName": "1.1.0",
-  "downloadUrl": "https://github.com/abdolebsir21-byte/UGI-Master/releases/download/UGI/UGIMaster_1.1.0.apk",
+  "versionName": "1.2.0",
+  "downloadUrl": "https://github.com/abdolebsir21-byte/UGI-Master/releases/download/UGI/UGIMaster_1.2.0.apk",
   "mandatory": true,
   "message": "يتوفر تحديث جديد من التطبيق. يرجى تحميله وتثبيته للاستمرار.",
   "features": [
     "🩵تحسين سرعة فتح التطبيق",
     "🔥إصلاح مشكلة التثبيت بعد منح الإذن",
     "⚙️تحسين استقرار الأدوات",
+    " تم إضافة فيديو تعليمي لطريقة تركيب", 
+    "تم تعديل واجهة المستخدم لتصبح اكثر عصرية وسلاسة", 
     " Mod by Abdo"
   ]
 }
